@@ -1,0 +1,501 @@
+Student ID,Timestamp,Heart Rate,Activity Level,Sleep Patterns,Health Status,Stress Level,Lesson Topic,Lesson Engagement,Progress,Feedback
+1,2025-01-13 8:00:00,94,7630,6.820447139925621,Needs Improvement,Medium,Global Citizenship,65,72,Confusing
+1,2025-01-13 8:15:00,91,11914,8.205263647875615,Healthy,Low,Global Citizenship,81,86,Engaging
+1,2025-01-13 8:30:00,78,7001,8.851454444736387,Healthy,Low,Democracy,92,100,Confusing
+1,2025-01-13 8:45:00,73,3468,4.198712314018411,Needs Improvement,Low,National Pride,58,66,Engaging
+1,2025-01-13 9:00:00,97,9650,8.709402873775034,Critical,High,Ethics in Politics,49,49,Engaging
+2,2025-01-13 8:00:00,62,10117,7.146255218018476,Critical,High,Democracy,42,44,Confusing
+2,2025-01-13 8:15:00,88,4834,5.268288248318955,Needs Improvement,Medium,Ethics in Politics,74,79,Engaging
+2,2025-01-13 8:30:00,83,14212,5.331954178483159,Needs Improvement,Low,Democracy,61,61,Needs clarification
+2,2025-01-13 8:45:00,92,12384,5.548717076361595,Needs Improvement,Low,Social Responsibility,52,57,Clear
+2,2025-01-13 9:00:00,61,7028,6.592890110592718,Healthy,Low,Global Citizenship,86,95,Confusing
+3,2025-01-13 8:00:00,66,1726,5.771410339622407,Needs Improvement,High,Social Responsibility,76,77,Engaging
+3,2025-01-13 8:15:00,62,13257,6.50521414557009,Needs Improvement,Medium,Democracy,62,71,Needs clarification
+3,2025-01-13 8:30:00,79,1739,6.005757178624988,Needs Improvement,High,Social Responsibility,71,74,Needs clarification
+3,2025-01-13 8:45:00,94,11084,6.595220675674903,Healthy,Low,Social Responsibility,99,100,Confusing
+3,2025-01-13 9:00:00,85,14768,8.968644554291288,Healthy,Low,Democracy,95,97,Engaging
+4,2025-01-13 8:00:00,68,5694,6.575953013069844,Critical,High,Democracy,40,45,Engaging
+4,2025-01-13 8:15:00,88,13867,5.8256747709782095,Needs Improvement,Medium,Global Citizenship,63,71,Needs clarification
+4,2025-01-13 8:30:00,72,2453,7.792819880500554,Needs Improvement,Medium,Global Citizenship,80,82,Clear
+4,2025-01-13 8:45:00,83,12259,7.182701365100831,Critical,High,Ethics in Politics,47,52,Needs clarification
+4,2025-01-13 9:00:00,60,12881,8.47590088031302,Needs Improvement,Medium,National Pride,58,68,Engaging
+5,2025-01-13 8:00:00,94,7941,4.168993811402748,Needs Improvement,Low,National Pride,68,71,Confusing
+5,2025-01-13 8:15:00,99,10882,4.2790147104188,Needs Improvement,Low,Social Responsibility,79,82,Clear
+5,2025-01-13 8:30:00,81,4848,4.445304163544516,Needs Improvement,High,Democracy,80,83,Needs clarification
+5,2025-01-13 8:45:00,96,11022,4.686780031853892,Needs Improvement,Low,National Pride,51,53,Confusing
+5,2025-01-13 9:00:00,85,12073,4.822094779525004,Needs Improvement,Low,National Pride,53,58,Confusing
+6,2025-01-13 8:00:00,75,10507,7.607532273094159,Healthy,Low,National Pride,87,91,Confusing
+6,2025-01-13 8:15:00,86,9666,6.069043630264526,Critical,High,Global Citizenship,49,56,Engaging
+6,2025-01-13 8:30:00,66,9649,6.657368204869579,Healthy,Low,Global Citizenship,99,100,Needs clarification
+6,2025-01-13 8:45:00,100,9514,6.001063685910642,Critical,High,Global Citizenship,49,55,Engaging
+6,2025-01-13 9:00:00,62,11398,6.6859726662716135,Needs Improvement,Medium,Social Responsibility,59,62,Engaging
+7,2025-01-13 8:00:00,61,4457,6.5276050763713505,Critical,High,Social Responsibility,38,39,Clear
+7,2025-01-13 8:15:00,93,3391,5.747271747733651,Needs Improvement,Medium,Democracy,58,64,Needs clarification
+7,2025-01-13 8:30:00,75,6383,8.722088783157663,Needs Improvement,Medium,National Pride,69,79,Needs clarification
+7,2025-01-13 8:45:00,88,12691,8.284203682357344,Critical,High,National Pride,44,49,Confusing
+7,2025-01-13 9:00:00,87,12837,7.997704248774786,Healthy,Low,Global Citizenship,83,85,Needs clarification
+8,2025-01-13 8:00:00,67,1272,4.559155508866071,Needs Improvement,Low,Ethics in Politics,76,86,Confusing
+8,2025-01-13 8:15:00,99,13357,6.140829024906843,Critical,High,National Pride,31,33,Needs clarification
+8,2025-01-13 8:30:00,66,7619,6.8086752173665515,Critical,High,Ethics in Politics,33,33,Clear
+8,2025-01-13 8:45:00,89,11656,5.672596621629303,Needs Improvement,High,National Pride,61,69,Clear
+8,2025-01-13 9:00:00,60,11433,6.738739697774015,Healthy,Low,National Pride,81,89,Confusing
+9,2025-01-13 8:00:00,94,4855,5.224780601410057,Needs Improvement,High,Global Citizenship,61,66,Confusing
+9,2025-01-13 8:15:00,93,11062,6.463416219037179,Needs Improvement,Medium,Global Citizenship,70,77,Clear
+9,2025-01-13 8:30:00,63,1008,5.945785026525433,Needs Improvement,Medium,Democracy,58,68,Engaging
+9,2025-01-13 8:45:00,78,9844,6.369602750798016,Critical,High,Democracy,39,47,Needs clarification
+9,2025-01-13 9:00:00,78,11406,8.708464720338487,Critical,High,Democracy,41,48,Clear
+10,2025-01-13 8:00:00,67,6487,4.540923598510706,Needs Improvement,Medium,Ethics in Politics,53,56,Engaging
+10,2025-01-13 8:15:00,82,8824,4.617825375717211,Needs Improvement,Low,Global Citizenship,55,55,Confusing
+10,2025-01-13 8:30:00,82,3207,8.435223860373625,Critical,High,Global Citizenship,48,56,Clear
+10,2025-01-13 8:45:00,66,11428,8.154817939922506,Needs Improvement,Medium,Democracy,72,76,Engaging
+10,2025-01-13 9:00:00,99,7494,8.180636645838497,Needs Improvement,Medium,Global Citizenship,61,69,Confusing
+11,2025-01-13 8:00:00,88,3199,5.3816082148455475,Needs Improvement,Low,Democracy,66,69,Confusing
+11,2025-01-13 8:15:00,79,1391,5.472231476131151,Needs Improvement,Medium,Global Citizenship,61,62,Confusing
+11,2025-01-13 8:30:00,82,4317,7.4056174748817245,Critical,Low,Democracy,43,48,Engaging
+11,2025-01-13 8:45:00,99,6750,5.321680308254113,Needs Improvement,Low,Ethics in Politics,63,70,Clear
+11,2025-01-13 9:00:00,73,14532,6.0543431073374325,Needs Improvement,Medium,Global Citizenship,74,78,Engaging
+12,2025-01-13 8:00:00,88,3140,5.8663027064828475,Needs Improvement,High,Ethics in Politics,78,81,Confusing
+12,2025-01-13 8:15:00,90,13622,7.821015890937675,Healthy,Low,National Pride,87,94,Engaging
+12,2025-01-13 8:30:00,66,14748,8.187866052359343,Critical,High,Ethics in Politics,50,55,Confusing
+12,2025-01-13 8:45:00,82,10976,4.40660533559618,Needs Improvement,Medium,National Pride,59,59,Clear
+12,2025-01-13 9:00:00,74,11560,4.787593134110334,Needs Improvement,High,Global Citizenship,78,78,Confusing
+13,2025-01-13 8:00:00,83,7453,4.718316687358982,Needs Improvement,Medium,Democracy,60,66,Needs clarification
+13,2025-01-13 8:15:00,66,12545,6.293983340888533,Critical,High,Democracy,44,46,Confusing
+13,2025-01-13 8:30:00,87,7569,8.734486110489232,Needs Improvement,Medium,Social Responsibility,63,70,Engaging
+13,2025-01-13 8:45:00,97,5012,8.450180488208604,Healthy,Low,Ethics in Politics,93,94,Engaging
+13,2025-01-13 9:00:00,77,5978,4.565570803128989,Needs Improvement,High,National Pride,55,60,Needs clarification
+14,2025-01-13 8:00:00,68,7383,7.520359474908399,Critical,High,Global Citizenship,46,49,Clear
+14,2025-01-13 8:15:00,74,1437,7.3422749570926715,Needs Improvement,High,Democracy,76,78,Clear
+14,2025-01-13 8:30:00,63,5246,5.982851890110251,Needs Improvement,Medium,National Pride,75,81,Engaging
+14,2025-01-13 8:45:00,77,12545,4.666829418172905,Needs Improvement,Low,Global Citizenship,67,71,Needs clarification
+14,2025-01-13 9:00:00,75,5497,4.0429353665591385,Needs Improvement,Low,Social Responsibility,70,71,Confusing
+15,2025-01-13 8:00:00,87,10009,5.739803404194303,Needs Improvement,High,Democracy,63,63,Clear
+15,2025-01-13 8:15:00,61,1266,5.647170018410835,Needs Improvement,High,Global Citizenship,71,73,Engaging
+15,2025-01-13 8:30:00,65,2119,8.641356825984044,Needs Improvement,Low,Democracy,62,71,Engaging
+15,2025-01-13 8:45:00,71,2676,6.285407096551369,Needs Improvement,Medium,Ethics in Politics,61,65,Clear
+15,2025-01-13 9:00:00,61,3981,5.65751670257641,Needs Improvement,Low,Democracy,50,60,Confusing
+16,2025-01-13 8:00:00,100,4238,5.9693329612821575,Needs Improvement,High,Social Responsibility,53,55,Engaging
+16,2025-01-13 8:15:00,90,10499,5.538482796618119,Needs Improvement,Medium,Social Responsibility,56,56,Needs clarification
+16,2025-01-13 8:30:00,79,13968,5.67464353205056,Needs Improvement,Medium,Ethics in Politics,79,89,Confusing
+16,2025-01-13 8:45:00,94,2889,5.355217445164918,Needs Improvement,High,Social Responsibility,70,75,Needs clarification
+16,2025-01-13 9:00:00,60,11779,7.783035904505667,Needs Improvement,Medium,National Pride,80,86,Needs clarification
+17,2025-01-13 8:00:00,84,10966,8.840910452316368,Critical,High,Ethics in Politics,36,37,Confusing
+17,2025-01-13 8:15:00,80,10376,5.336362412923586,Needs Improvement,Low,Global Citizenship,58,60,Clear
+17,2025-01-13 8:30:00,81,14135,5.991682292737829,Needs Improvement,High,National Pride,71,79,Clear
+17,2025-01-13 8:45:00,75,11591,6.324159631318491,Needs Improvement,Medium,Global Citizenship,71,81,Engaging
+17,2025-01-13 9:00:00,75,9675,4.042779586713152,Needs Improvement,Low,Global Citizenship,54,55,Confusing
+18,2025-01-13 8:00:00,78,3520,8.65494086137668,Critical,High,National Pride,32,33,Needs clarification
+18,2025-01-13 8:15:00,83,12642,6.55216651633809,Healthy,Low,National Pride,95,95,Engaging
+18,2025-01-13 8:30:00,89,10425,6.902198998353823,Needs Improvement,Medium,Social Responsibility,78,80,Confusing
+18,2025-01-13 8:45:00,97,1370,5.839642220710333,Needs Improvement,High,Ethics in Politics,55,64,Confusing
+18,2025-01-13 9:00:00,85,13903,4.456367386979253,Needs Improvement,High,National Pride,53,59,Confusing
+19,2025-01-13 8:00:00,88,3507,5.368679056010684,Needs Improvement,Low,Social Responsibility,58,65,Engaging
+19,2025-01-13 8:15:00,74,8282,5.654752987428936,Needs Improvement,Medium,Global Citizenship,70,74,Clear
+19,2025-01-13 8:30:00,98,8551,8.930542312883992,Needs Improvement,Medium,National Pride,53,58,Engaging
+19,2025-01-13 8:45:00,61,9001,5.162889064383778,Needs Improvement,High,Ethics in Politics,56,60,Needs clarification
+19,2025-01-13 9:00:00,90,5022,7.442928419303978,Healthy,Low,Democracy,95,100,Needs clarification
+20,2025-01-13 8:00:00,63,4312,6.279344909136989,Needs Improvement,Medium,National Pride,59,67,Confusing
+20,2025-01-13 8:15:00,77,5348,5.422813148965309,Needs Improvement,Low,National Pride,80,90,Engaging
+20,2025-01-13 8:30:00,77,8167,8.408766487762321,Needs Improvement,Medium,Ethics in Politics,50,57,Confusing
+20,2025-01-13 8:45:00,68,8253,5.221641454272839,Needs Improvement,Medium,Global Citizenship,69,78,Engaging
+20,2025-01-13 9:00:00,72,5092,8.198418086400245,Healthy,Low,Ethics in Politics,95,95,Engaging
+21,2025-01-13 8:00:00,99,5321,8.698232381438057,Critical,High,National Pride,43,48,Clear
+21,2025-01-13 8:15:00,72,10136,5.331286754195616,Needs Improvement,High,National Pride,58,68,Clear
+21,2025-01-13 8:30:00,88,13771,4.636629489419716,Needs Improvement,High,Global Citizenship,50,57,Engaging
+21,2025-01-13 8:45:00,63,5612,5.966148319491417,Needs Improvement,Low,Ethics in Politics,73,73,Confusing
+21,2025-01-13 9:00:00,75,2072,5.6820095724111,Needs Improvement,High,Democracy,51,61,Confusing
+22,2025-01-13 8:00:00,74,4964,5.015781254547008,Needs Improvement,High,Ethics in Politics,66,66,Needs clarification
+22,2025-01-13 8:15:00,94,10843,7.167571915102716,Critical,High,Social Responsibility,47,55,Engaging
+22,2025-01-13 8:30:00,98,7057,5.986061226009981,Needs Improvement,High,Ethics in Politics,66,69,Engaging
+22,2025-01-13 8:45:00,91,6902,4.794573036548376,Needs Improvement,Low,Democracy,77,86,Confusing
+22,2025-01-13 9:00:00,72,11023,7.482648453831216,Needs Improvement,Medium,National Pride,79,80,Needs clarification
+23,2025-01-13 8:00:00,72,12227,8.486045485938973,Needs Improvement,Medium,Social Responsibility,64,74,Clear
+23,2025-01-13 8:15:00,78,6702,4.826844918774647,Needs Improvement,High,Ethics in Politics,67,67,Engaging
+23,2025-01-13 8:30:00,75,12794,4.356076869616903,Needs Improvement,Low,Social Responsibility,79,82,Confusing
+23,2025-01-13 8:45:00,67,5887,7.645260773631417,Needs Improvement,Medium,Global Citizenship,78,86,Clear
+23,2025-01-13 9:00:00,71,2698,8.120460231226804,Needs Improvement,Low,Ethics in Politics,78,78,Confusing
+24,2025-01-13 8:00:00,82,6741,8.99683371492798,Needs Improvement,Medium,Global Citizenship,71,80,Engaging
+24,2025-01-13 8:15:00,66,13359,8.373057874531586,Critical,High,Ethics in Politics,34,34,Engaging
+24,2025-01-13 8:30:00,96,6312,8.47613271915597,Needs Improvement,Medium,Democracy,61,62,Confusing
+24,2025-01-13 8:45:00,73,2482,6.324595256839019,Needs Improvement,High,Democracy,74,84,Needs clarification
+24,2025-01-13 9:00:00,60,6228,4.236619173804758,Needs Improvement,Low,Democracy,59,64,Clear
+25,2025-01-13 8:00:00,86,1025,4.767431992711903,Needs Improvement,Low,Ethics in Politics,65,72,Needs clarification
+25,2025-01-13 8:15:00,62,2366,5.203861430701025,Needs Improvement,Low,Social Responsibility,53,56,Engaging
+25,2025-01-13 8:30:00,91,2464,8.113966928001364,Needs Improvement,Low,National Pride,77,77,Clear
+25,2025-01-13 8:45:00,76,1194,8.852289936700078,Needs Improvement,Low,Democracy,69,75,Clear
+25,2025-01-13 9:00:00,77,8874,4.867094539119066,Needs Improvement,Low,Democracy,66,66,Confusing
+26,2025-01-13 8:00:00,82,6954,6.906556062508718,Healthy,Low,National Pride,96,100,Needs clarification
+26,2025-01-13 8:15:00,62,8989,6.237378721948998,Needs Improvement,Medium,National Pride,76,84,Confusing
+26,2025-01-13 8:30:00,83,10596,6.588369242254699,Healthy,Low,National Pride,95,100,Confusing
+26,2025-01-13 8:45:00,77,1898,6.25787257341799,Needs Improvement,High,National Pride,67,73,Confusing
+26,2025-01-13 9:00:00,95,5653,4.052939892275826,Needs Improvement,Low,Global Citizenship,75,75,Engaging
+27,2025-01-13 8:00:00,87,8552,4.395779413181226,Needs Improvement,Low,Social Responsibility,59,59,Confusing
+27,2025-01-13 8:15:00,70,6770,6.732018867411593,Critical,High,Global Citizenship,49,50,Confusing
+27,2025-01-13 8:30:00,95,1219,8.943680271988868,Needs Improvement,High,Ethics in Politics,66,76,Needs clarification
+27,2025-01-13 8:45:00,99,13834,4.044226287483477,Needs Improvement,Medium,National Pride,74,79,Confusing
+27,2025-01-13 9:00:00,67,4830,8.588273476593596,Critical,High,National Pride,39,45,Clear
+28,2025-01-13 8:00:00,82,7133,4.1478147169428805,Needs Improvement,Low,National Pride,67,71,Confusing
+28,2025-01-13 8:15:00,85,9655,4.536755620432977,Needs Improvement,High,Social Responsibility,80,81,Engaging
+28,2025-01-13 8:30:00,67,12632,5.686292555305606,Needs Improvement,Low,Ethics in Politics,58,67,Clear
+28,2025-01-13 8:45:00,90,1105,4.0598120710097465,Needs Improvement,Medium,Global Citizenship,79,85,Confusing
+28,2025-01-13 9:00:00,88,10743,4.383228589877867,Needs Improvement,Medium,Ethics in Politics,68,69,Needs clarification
+29,2025-01-13 8:00:00,69,8687,4.307695723392242,Needs Improvement,High,Democracy,77,82,Needs clarification
+29,2025-01-13 8:15:00,89,10516,5.090398678192827,Needs Improvement,High,Democracy,50,51,Needs clarification
+29,2025-01-13 8:30:00,68,1903,5.405950110422879,Needs Improvement,High,Democracy,57,61,Engaging
+29,2025-01-13 8:45:00,82,7664,4.723880782258412,Needs Improvement,Low,Ethics in Politics,65,71,Engaging
+29,2025-01-13 9:00:00,69,8428,4.057793997175384,Needs Improvement,Low,National Pride,80,88,Engaging
+30,2025-01-13 8:00:00,90,7608,4.904106806427053,Needs Improvement,Medium,Global Citizenship,58,61,Clear
+30,2025-01-13 8:15:00,96,4412,7.754796059705638,Needs Improvement,Medium,Global Citizenship,62,67,Clear
+30,2025-01-13 8:30:00,63,12426,8.632084352148869,Critical,High,Social Responsibility,46,50,Needs clarification
+30,2025-01-13 8:45:00,88,8966,6.160056942680561,Needs Improvement,Medium,Global Citizenship,56,64,Needs clarification
+30,2025-01-13 9:00:00,69,3391,7.465653935652009,Critical,High,Democracy,36,42,Needs clarification
+31,2025-01-13 8:00:00,89,9913,6.259013343028066,Healthy,Low,Global Citizenship,85,95,Confusing
+31,2025-01-13 8:15:00,81,3048,8.750397898291538,Critical,High,Democracy,38,42,Confusing
+31,2025-01-13 8:30:00,96,2485,7.7722235716138695,Needs Improvement,Medium,Social Responsibility,63,73,Clear
+31,2025-01-13 8:45:00,89,1114,5.7164044665223885,Needs Improvement,Medium,Democracy,62,64,Needs clarification
+31,2025-01-13 9:00:00,89,13844,8.327671086077991,Healthy,Low,Global Citizenship,87,87,Needs clarification
+32,2025-01-13 8:00:00,75,11086,5.1481559653340225,Needs Improvement,Medium,Ethics in Politics,57,60,Clear
+32,2025-01-13 8:15:00,66,3587,5.6185178765189505,Needs Improvement,Low,Social Responsibility,74,76,Confusing
+32,2025-01-13 8:30:00,100,2680,8.804232502602893,Needs Improvement,Medium,National Pride,50,50,Clear
+32,2025-01-13 8:45:00,74,13340,8.026115840323463,Healthy,Low,Democracy,82,86,Engaging
+32,2025-01-13 9:00:00,87,12503,6.917264631667826,Critical,High,Global Citizenship,37,44,Needs clarification
+33,2025-01-13 8:00:00,97,4428,5.60489581393084,Needs Improvement,Medium,Global Citizenship,69,76,Engaging
+33,2025-01-13 8:15:00,97,8292,6.209071661522144,Healthy,Low,Ethics in Politics,85,92,Confusing
+33,2025-01-13 8:30:00,71,4501,7.311035766213938,Critical,High,Social Responsibility,39,47,Confusing
+33,2025-01-13 8:45:00,85,1437,5.723770088586771,Needs Improvement,High,Social Responsibility,68,76,Clear
+33,2025-01-13 9:00:00,62,2055,7.9663681241556645,Needs Improvement,High,Democracy,65,72,Clear
+34,2025-01-13 8:00:00,69,1003,7.72382867239019,Needs Improvement,Medium,Democracy,52,55,Needs clarification
+34,2025-01-13 8:15:00,75,4818,5.520023866364207,Needs Improvement,Low,Democracy,80,80,Confusing
+34,2025-01-13 8:30:00,85,7708,5.163704249909108,Needs Improvement,Low,Democracy,80,89,Clear
+34,2025-01-13 8:45:00,85,8612,8.847403613016292,Needs Improvement,Medium,National Pride,78,80,Clear
+34,2025-01-13 9:00:00,67,12373,7.428540478856617,Needs Improvement,Medium,Ethics in Politics,51,55,Needs clarification
+35,2025-01-13 8:00:00,67,4903,7.150198700553113,Critical,Low,Democracy,44,46,Confusing
+35,2025-01-13 8:15:00,74,9599,8.924628739497889,Healthy,Low,Social Responsibility,80,82,Needs clarification
+35,2025-01-13 8:30:00,70,6819,7.309063278938058,Critical,High,Global Citizenship,43,47,Confusing
+35,2025-01-13 8:45:00,96,14467,5.75033536744936,Needs Improvement,Low,Social Responsibility,73,82,Clear
+35,2025-01-13 9:00:00,87,13199,4.11140996595002,Needs Improvement,Medium,National Pride,73,80,Confusing
+36,2025-01-13 8:00:00,77,8413,5.000808967178797,Needs Improvement,Medium,Ethics in Politics,52,56,Needs clarification
+36,2025-01-13 8:15:00,60,5031,8.430875381937053,Needs Improvement,Medium,Global Citizenship,52,52,Confusing
+36,2025-01-13 8:30:00,70,14036,4.235851744137733,Needs Improvement,High,Democracy,55,65,Engaging
+36,2025-01-13 8:45:00,68,10929,6.7201378061165755,Needs Improvement,Medium,Ethics in Politics,70,72,Confusing
+36,2025-01-13 9:00:00,66,4285,6.661413720250595,Critical,Low,Democracy,49,56,Confusing
+37,2025-01-13 8:00:00,78,2521,8.691494283264355,Needs Improvement,Medium,Social Responsibility,65,67,Clear
+37,2025-01-13 8:15:00,66,1531,7.2342235936426595,Needs Improvement,High,Ethics in Politics,69,76,Engaging
+37,2025-01-13 8:30:00,77,2685,6.243074218827754,Needs Improvement,High,Ethics in Politics,52,59,Engaging
+37,2025-01-13 8:45:00,84,1737,4.559490712935883,Needs Improvement,High,Global Citizenship,62,63,Needs clarification
+37,2025-01-13 9:00:00,74,2695,8.91437042404549,Needs Improvement,High,Social Responsibility,80,90,Clear
+38,2025-01-13 8:00:00,93,3618,4.171263348012033,Needs Improvement,Low,Democracy,63,66,Clear
+38,2025-01-13 8:15:00,90,12906,7.454318790767408,Healthy,Low,Global Citizenship,83,93,Clear
+38,2025-01-13 8:30:00,89,7668,5.997905382118996,Needs Improvement,High,Democracy,70,74,Needs clarification
+38,2025-01-13 8:45:00,92,9206,5.886244340066927,Needs Improvement,Medium,National Pride,75,85,Clear
+38,2025-01-13 9:00:00,98,7574,4.047707951582088,Needs Improvement,High,Ethics in Politics,50,52,Confusing
+39,2025-01-13 8:00:00,83,9515,7.229029801434018,Needs Improvement,Medium,National Pride,70,79,Engaging
+39,2025-01-13 8:15:00,64,14082,5.569723605576376,Needs Improvement,Low,Ethics in Politics,73,81,Confusing
+39,2025-01-13 8:30:00,60,3603,8.434590984937335,Critical,High,National Pride,48,50,Confusing
+39,2025-01-13 8:45:00,76,2423,5.321237495458687,Needs Improvement,Low,Democracy,51,55,Clear
+39,2025-01-13 9:00:00,88,10525,7.385266780188647,Critical,High,Ethics in Politics,43,43,Confusing
+40,2025-01-13 8:00:00,81,6910,4.471980731830255,Needs Improvement,Medium,Social Responsibility,68,76,Clear
+40,2025-01-13 8:15:00,76,9507,6.290531008550886,Critical,High,Ethics in Politics,33,40,Needs clarification
+40,2025-01-13 8:30:00,96,9999,4.680903819372602,Needs Improvement,High,Social Responsibility,71,78,Confusing
+40,2025-01-13 8:45:00,77,3679,6.789349592670389,Needs Improvement,Medium,Social Responsibility,58,65,Clear
+40,2025-01-13 9:00:00,67,12246,7.700032604661262,Healthy,Low,Ethics in Politics,93,94,Clear
+41,2025-01-13 8:00:00,90,6281,6.4259228434213576,Needs Improvement,Medium,Ethics in Politics,57,61,Needs clarification
+41,2025-01-13 8:15:00,69,11074,6.532531666372536,Needs Improvement,Medium,National Pride,80,86,Engaging
+41,2025-01-13 8:30:00,99,5479,8.38958729711756,Healthy,Low,Social Responsibility,95,100,Confusing
+41,2025-01-13 8:45:00,64,5556,6.598019366195152,Critical,High,Ethics in Politics,40,46,Engaging
+41,2025-01-13 9:00:00,86,3445,8.69874873192478,Critical,High,National Pride,48,53,Engaging
+42,2025-01-13 8:00:00,80,2497,8.245303917607298,Needs Improvement,Low,Social Responsibility,77,81,Needs clarification
+42,2025-01-13 8:15:00,78,10075,6.959760931481324,Needs Improvement,Medium,Global Citizenship,80,85,Clear
+42,2025-01-13 8:30:00,61,1513,6.939601378366413,Needs Improvement,High,Social Responsibility,67,68,Engaging
+42,2025-01-13 8:45:00,60,12762,8.555722412709475,Needs Improvement,Medium,Democracy,76,81,Clear
+42,2025-01-13 9:00:00,87,5077,4.754135908256536,Needs Improvement,Medium,National Pride,77,78,Needs clarification
+43,2025-01-13 8:00:00,72,2070,5.606025105078537,Needs Improvement,High,Global Citizenship,59,64,Engaging
+43,2025-01-13 8:15:00,96,8708,6.2314310953987775,Critical,High,Ethics in Politics,31,37,Clear
+43,2025-01-13 8:30:00,72,5881,7.4814491027121575,Needs Improvement,Medium,Democracy,77,87,Clear
+43,2025-01-13 8:45:00,84,7981,4.1097216139374,Needs Improvement,Medium,Global Citizenship,66,71,Needs clarification
+43,2025-01-13 9:00:00,63,7601,4.462291113318117,Needs Improvement,Low,Global Citizenship,79,79,Engaging
+44,2025-01-13 8:00:00,60,8617,8.832914601770591,Critical,High,Social Responsibility,43,49,Clear
+44,2025-01-13 8:15:00,100,9807,4.74092868140259,Needs Improvement,Low,Global Citizenship,55,56,Needs clarification
+44,2025-01-13 8:30:00,90,5862,6.436998873157863,Critical,High,National Pride,30,36,Clear
+44,2025-01-13 8:45:00,73,7960,8.531212460429,Critical,High,Social Responsibility,46,56,Engaging
+44,2025-01-13 9:00:00,71,13798,5.628824307023328,Needs Improvement,High,Social Responsibility,65,71,Needs clarification
+45,2025-01-13 8:00:00,60,8136,6.288331492501433,Critical,High,Ethics in Politics,48,53,Clear
+45,2025-01-13 8:15:00,93,5406,4.681943008591362,Needs Improvement,Medium,Global Citizenship,67,71,Engaging
+45,2025-01-13 8:30:00,82,12248,7.656764641203522,Needs Improvement,Medium,Ethics in Politics,55,61,Needs clarification
+45,2025-01-13 8:45:00,68,8089,7.299882361137025,Critical,High,National Pride,47,49,Needs clarification
+45,2025-01-13 9:00:00,85,4528,5.817047687351392,Needs Improvement,High,Global Citizenship,54,55,Engaging
+46,2025-01-13 8:00:00,91,3739,8.185936146836308,Critical,High,Democracy,34,42,Needs clarification
+46,2025-01-13 8:15:00,64,2374,6.966912229271939,Needs Improvement,High,Democracy,79,80,Clear
+46,2025-01-13 8:30:00,100,10270,7.438288516151415,Needs Improvement,Medium,Democracy,80,89,Engaging
+46,2025-01-13 8:45:00,85,5848,8.796750348681442,Needs Improvement,Medium,National Pride,61,66,Engaging
+46,2025-01-13 9:00:00,98,1995,5.129073562073829,Needs Improvement,High,National Pride,59,67,Engaging
+47,2025-01-13 8:00:00,84,9806,6.719326054457286,Critical,High,Social Responsibility,31,32,Needs clarification
+47,2025-01-13 8:15:00,62,14095,5.911457576949621,Needs Improvement,High,Global Citizenship,67,68,Confusing
+47,2025-01-13 8:30:00,92,14801,7.337417285811142,Healthy,Low,Social Responsibility,99,100,Engaging
+47,2025-01-13 8:45:00,89,6175,5.464546629519372,Needs Improvement,High,Democracy,67,76,Engaging
+47,2025-01-13 9:00:00,81,5952,6.440795440460505,Critical,High,Ethics in Politics,38,44,Clear
+48,2025-01-13 8:00:00,71,3646,4.473446882447897,Needs Improvement,High,Ethics in Politics,80,89,Needs clarification
+48,2025-01-13 8:15:00,78,12796,4.9121222508852025,Needs Improvement,Medium,Social Responsibility,63,72,Clear
+48,2025-01-13 8:30:00,66,6992,7.034361962584859,Healthy,Low,Global Citizenship,82,87,Needs clarification
+48,2025-01-13 8:45:00,77,3674,5.096116652211164,Needs Improvement,High,Global Citizenship,76,76,Confusing
+48,2025-01-13 9:00:00,85,14606,7.325097944600499,Critical,High,Social Responsibility,44,44,Engaging
+49,2025-01-13 8:00:00,99,13013,6.832879419911415,Critical,High,Social Responsibility,49,55,Engaging
+49,2025-01-13 8:15:00,60,10758,4.591363958379522,Needs Improvement,Medium,Social Responsibility,55,59,Engaging
+49,2025-01-13 8:30:00,72,9871,4.060812230101753,Needs Improvement,Medium,Ethics in Politics,63,71,Clear
+49,2025-01-13 8:45:00,88,2381,7.970388010192689,Needs Improvement,Medium,Social Responsibility,68,73,Confusing
+49,2025-01-13 9:00:00,66,4416,6.6603688788137525,Critical,High,Global Citizenship,48,56,Confusing
+50,2025-01-13 8:00:00,92,14977,8.880282351341098,Critical,High,Global Citizenship,37,41,Clear
+50,2025-01-13 8:15:00,72,10459,6.99851775671987,Healthy,Low,Social Responsibility,100,100,Clear
+50,2025-01-13 8:30:00,69,10232,4.751828678834389,Needs Improvement,Medium,Ethics in Politics,71,81,Engaging
+50,2025-01-13 8:45:00,86,9368,5.311877064584505,Needs Improvement,Medium,Democracy,61,61,Clear
+50,2025-01-13 9:00:00,98,9006,8.940902902897527,Healthy,Low,Democracy,85,94,Clear
+51,2025-01-13 8:00:00,75,1539,4.839448111106956,Needs Improvement,High,National Pride,70,78,Engaging
+51,2025-01-13 8:15:00,68,7895,6.310504228797167,Needs Improvement,Medium,Ethics in Politics,64,68,Clear
+51,2025-01-13 8:30:00,90,12968,5.103144854095291,Needs Improvement,High,National Pride,57,62,Confusing
+51,2025-01-13 8:45:00,97,8376,4.8454261683902295,Needs Improvement,Low,Social Responsibility,74,74,Confusing
+51,2025-01-13 9:00:00,89,7740,7.002177285503773,Healthy,Low,Global Citizenship,82,89,Needs clarification
+52,2025-01-13 8:00:00,63,13004,5.725846748032842,Needs Improvement,High,National Pride,63,71,Engaging
+52,2025-01-13 8:15:00,93,1493,7.227773613424732,Needs Improvement,Medium,Democracy,62,63,Needs clarification
+52,2025-01-13 8:30:00,90,11609,4.825355238317655,Needs Improvement,High,Democracy,80,86,Needs clarification
+52,2025-01-13 8:45:00,85,6840,4.054429605841807,Needs Improvement,Low,Social Responsibility,58,65,Needs clarification
+52,2025-01-13 9:00:00,68,5765,4.349641236457822,Needs Improvement,Low,Ethics in Politics,75,77,Engaging
+53,2025-01-13 8:00:00,100,9804,6.4870280832126275,Healthy,Low,Ethics in Politics,96,100,Clear
+53,2025-01-13 8:15:00,72,10966,5.671739906409464,Needs Improvement,High,Social Responsibility,78,79,Needs clarification
+53,2025-01-13 8:30:00,94,11799,8.36683681964399,Critical,High,Global Citizenship,35,44,Clear
+53,2025-01-13 8:45:00,62,8721,4.956238101147337,Needs Improvement,Medium,Global Citizenship,73,81,Needs clarification
+53,2025-01-13 9:00:00,93,11414,6.3732940712617125,Needs Improvement,Medium,National Pride,51,51,Engaging
+54,2025-01-13 8:00:00,82,8171,6.055635840198904,Needs Improvement,Medium,Ethics in Politics,61,71,Clear
+54,2025-01-13 8:15:00,74,3166,4.482019231147422,Needs Improvement,Medium,National Pride,58,64,Confusing
+54,2025-01-13 8:30:00,86,3483,7.020758980813717,Needs Improvement,Medium,Global Citizenship,75,78,Needs clarification
+54,2025-01-13 8:45:00,66,1151,5.933385633419862,Needs Improvement,High,Democracy,58,59,Needs clarification
+54,2025-01-13 9:00:00,75,14466,6.143151386235532,Critical,High,National Pride,47,51,Needs clarification
+55,2025-01-13 8:00:00,80,6719,6.043064520261629,Critical,High,Global Citizenship,33,41,Confusing
+55,2025-01-13 8:15:00,87,10816,5.633617812214792,Needs Improvement,Medium,National Pride,65,75,Engaging
+55,2025-01-13 8:30:00,85,8324,5.859724391754429,Needs Improvement,Medium,Democracy,72,73,Engaging
+55,2025-01-13 8:45:00,96,10852,6.663581604899767,Critical,High,Global Citizenship,45,48,Needs clarification
+55,2025-01-13 9:00:00,78,14903,4.448092709784048,Needs Improvement,Low,Social Responsibility,67,74,Needs clarification
+56,2025-01-13 8:00:00,76,13917,6.309893883686187,Healthy,Low,Social Responsibility,99,100,Clear
+56,2025-01-13 8:15:00,70,1596,7.231710376096597,Needs Improvement,Medium,Democracy,71,80,Confusing
+56,2025-01-13 8:30:00,65,8859,5.791647474389173,Needs Improvement,Medium,Ethics in Politics,57,57,Needs clarification
+56,2025-01-13 8:45:00,94,12806,6.747262776430302,Critical,High,Social Responsibility,32,33,Confusing
+56,2025-01-13 9:00:00,79,4034,7.492873066114637,Critical,High,Democracy,45,49,Needs clarification
+57,2025-01-13 8:00:00,63,1409,4.677229352760503,Needs Improvement,Medium,Ethics in Politics,55,60,Clear
+57,2025-01-13 8:15:00,67,11811,6.349670911609534,Needs Improvement,Medium,National Pride,64,66,Engaging
+57,2025-01-13 8:30:00,63,9212,4.950652173886077,Needs Improvement,Low,Social Responsibility,63,66,Clear
+57,2025-01-13 8:45:00,68,6583,4.615097372069251,Needs Improvement,Low,Social Responsibility,79,87,Clear
+57,2025-01-13 9:00:00,70,13818,6.227857351765937,Needs Improvement,Medium,Democracy,68,69,Needs clarification
+58,2025-01-13 8:00:00,66,1305,4.562077135663018,Needs Improvement,Medium,Democracy,76,78,Needs clarification
+58,2025-01-13 8:15:00,61,13696,5.935774188555209,Needs Improvement,Low,National Pride,73,73,Confusing
+58,2025-01-13 8:30:00,67,9924,7.460790817814298,Needs Improvement,Medium,National Pride,73,79,Engaging
+58,2025-01-13 8:45:00,66,4799,6.664347146598266,Critical,Low,Global Citizenship,49,51,Engaging
+58,2025-01-13 9:00:00,95,11802,5.646302679873581,Needs Improvement,Low,Democracy,80,87,Engaging
+59,2025-01-13 8:00:00,71,13777,6.303900464772701,Critical,High,Democracy,38,40,Engaging
+59,2025-01-13 8:15:00,68,1597,4.138370795509821,Needs Improvement,Low,Democracy,74,83,Confusing
+59,2025-01-13 8:30:00,83,12430,7.625129916434622,Healthy,Low,Social Responsibility,90,90,Confusing
+59,2025-01-13 8:45:00,66,7623,6.944668317071705,Needs Improvement,Medium,National Pride,78,79,Confusing
+59,2025-01-13 9:00:00,76,6998,7.960334459426813,Needs Improvement,Medium,Global Citizenship,79,85,Confusing
+60,2025-01-13 8:00:00,86,4767,8.2592902278003,Critical,Low,Global Citizenship,43,47,Engaging
+60,2025-01-13 8:15:00,75,5953,6.465542893758135,Needs Improvement,Medium,National Pride,76,80,Confusing
+60,2025-01-13 8:30:00,88,11803,4.308920205527038,Needs Improvement,High,Ethics in Politics,79,82,Confusing
+60,2025-01-13 8:45:00,70,4429,5.539455174328793,Needs Improvement,High,National Pride,56,61,Clear
+60,2025-01-13 9:00:00,82,10644,6.366631421039435,Healthy,Low,Democracy,95,100,Needs clarification
+61,2025-01-13 8:00:00,71,13511,4.547577333963507,Needs Improvement,Low,Democracy,51,60,Needs clarification
+61,2025-01-13 8:15:00,61,12426,7.995407629883715,Healthy,Low,National Pride,93,100,Needs clarification
+61,2025-01-13 8:30:00,91,11305,6.456396551133478,Critical,High,Ethics in Politics,31,40,Clear
+61,2025-01-13 8:45:00,88,12001,8.946238982601479,Healthy,Low,Social Responsibility,83,89,Clear
+61,2025-01-13 9:00:00,94,2423,5.49874817891849,Needs Improvement,Low,National Pride,73,75,Clear
+62,2025-01-13 8:00:00,76,3845,5.480038710231602,Needs Improvement,Low,Democracy,61,69,Clear
+62,2025-01-13 8:15:00,98,1356,8.159197192633304,Needs Improvement,Medium,Global Citizenship,55,62,Needs clarification
+62,2025-01-13 8:30:00,84,11516,8.780695206544971,Healthy,Low,National Pride,85,90,Engaging
+62,2025-01-13 8:45:00,98,4919,8.825389306490429,Critical,High,Social Responsibility,43,49,Needs clarification
+62,2025-01-13 9:00:00,90,7419,8.98921814826064,Needs Improvement,Medium,Social Responsibility,68,72,Clear
+63,2025-01-13 8:00:00,68,14458,4.183108689988185,Needs Improvement,Medium,Ethics in Politics,58,63,Clear
+63,2025-01-13 8:15:00,63,10690,4.130586311542916,Needs Improvement,Low,National Pride,63,70,Confusing
+63,2025-01-13 8:30:00,64,9449,4.417544247129171,Needs Improvement,Low,Democracy,74,83,Engaging
+63,2025-01-13 8:45:00,73,11290,4.219958196525224,Needs Improvement,Low,Social Responsibility,68,71,Engaging
+63,2025-01-13 9:00:00,67,13142,7.791956189608309,Healthy,Low,National Pride,80,83,Confusing
+64,2025-01-13 8:00:00,75,12987,8.230288672939341,Needs Improvement,Medium,Ethics in Politics,61,71,Clear
+64,2025-01-13 8:15:00,99,1951,7.634132012090525,Needs Improvement,Medium,Ethics in Politics,75,76,Clear
+64,2025-01-13 8:30:00,98,12048,6.659362917232612,Critical,High,National Pride,41,48,Needs clarification
+64,2025-01-13 8:45:00,85,12619,5.930411405867654,Needs Improvement,Medium,Democracy,75,82,Confusing
+64,2025-01-13 9:00:00,100,12194,6.812362338347707,Needs Improvement,Medium,Democracy,55,62,Confusing
+65,2025-01-13 8:00:00,91,13818,5.477677033131961,Needs Improvement,High,Democracy,68,68,Engaging
+65,2025-01-13 8:15:00,93,14619,5.0818594689352965,Needs Improvement,Low,Global Citizenship,71,74,Clear
+65,2025-01-13 8:30:00,67,1490,4.965414445238127,Needs Improvement,High,Global Citizenship,61,68,Engaging
+65,2025-01-13 8:45:00,78,7413,6.5041204594484,Needs Improvement,Medium,Global Citizenship,66,67,Clear
+65,2025-01-13 9:00:00,80,13751,6.7775156405371115,Critical,High,National Pride,37,39,Confusing
+66,2025-01-13 8:00:00,82,9398,6.246611487563859,Critical,High,Democracy,49,57,Needs clarification
+66,2025-01-13 8:15:00,67,5487,5.023059172705868,Needs Improvement,Medium,Global Citizenship,67,74,Confusing
+66,2025-01-13 8:30:00,99,10510,8.072345134802427,Healthy,Low,National Pride,97,100,Confusing
+66,2025-01-13 8:45:00,64,9200,7.540604181714784,Healthy,Low,Global Citizenship,82,89,Needs clarification
+66,2025-01-13 9:00:00,71,2918,4.543650578548619,Needs Improvement,Low,Social Responsibility,56,66,Confusing
+67,2025-01-13 8:00:00,92,1290,8.91381378550138,Needs Improvement,Medium,National Pride,67,70,Confusing
+67,2025-01-13 8:15:00,86,1075,6.053458690164703,Needs Improvement,High,Ethics in Politics,80,88,Clear
+67,2025-01-13 8:30:00,75,8160,5.9377828234087655,Needs Improvement,Medium,National Pride,79,89,Clear
+67,2025-01-13 8:45:00,93,7614,5.808213904741552,Needs Improvement,Low,Democracy,50,59,Clear
+67,2025-01-13 9:00:00,64,5174,6.935191408166151,Critical,High,Democracy,32,32,Engaging
+68,2025-01-13 8:00:00,66,6896,5.8887141261359215,Needs Improvement,Low,National Pride,72,81,Engaging
+68,2025-01-13 8:15:00,86,11387,6.819233791713891,Healthy,Low,Ethics in Politics,92,100,Needs clarification
+68,2025-01-13 8:30:00,92,14551,5.3486082607574055,Needs Improvement,Low,Ethics in Politics,55,58,Confusing
+68,2025-01-13 8:45:00,87,14478,5.655296440163926,Needs Improvement,High,Ethics in Politics,73,73,Engaging
+68,2025-01-13 9:00:00,61,14005,6.196663294891824,Critical,High,Global Citizenship,41,42,Engaging
+69,2025-01-13 8:00:00,77,2469,7.02905947184148,Needs Improvement,Medium,Ethics in Politics,61,70,Confusing
+69,2025-01-13 8:15:00,89,9937,4.110705327696407,Needs Improvement,High,Social Responsibility,61,61,Engaging
+69,2025-01-13 8:30:00,62,6338,7.51305911343366,Critical,High,National Pride,31,41,Clear
+69,2025-01-13 8:45:00,85,9792,5.036078478036,Needs Improvement,Medium,Democracy,63,68,Clear
+69,2025-01-13 9:00:00,92,9404,4.680327491550329,Needs Improvement,Medium,National Pride,78,81,Confusing
+70,2025-01-13 8:00:00,75,3425,4.664273822886525,Needs Improvement,High,Social Responsibility,54,54,Clear
+70,2025-01-13 8:15:00,65,13242,8.194008867115192,Critical,High,National Pride,48,56,Needs clarification
+70,2025-01-13 8:30:00,92,2553,5.466002685595429,Needs Improvement,Medium,National Pride,65,65,Engaging
+70,2025-01-13 8:45:00,72,3878,7.334371689632831,Critical,High,Democracy,34,39,Engaging
+70,2025-01-13 9:00:00,70,9189,6.738139486977731,Critical,High,National Pride,30,39,Clear
+71,2025-01-13 8:00:00,96,8646,6.689854851973678,Needs Improvement,Medium,Democracy,53,56,Needs clarification
+71,2025-01-13 8:15:00,98,7965,4.768340936601088,Needs Improvement,Low,Ethics in Politics,78,78,Confusing
+71,2025-01-13 8:30:00,87,2877,5.495040862972486,Needs Improvement,Low,National Pride,62,67,Needs clarification
+71,2025-01-13 8:45:00,77,9653,8.285657195586726,Healthy,Low,Global Citizenship,80,85,Engaging
+71,2025-01-13 9:00:00,60,8822,5.568608894033089,Needs Improvement,High,Ethics in Politics,63,66,Needs clarification
+72,2025-01-13 8:00:00,77,4729,7.801229556786745,Needs Improvement,Medium,Ethics in Politics,52,54,Confusing
+72,2025-01-13 8:15:00,70,13590,5.7831699239023875,Needs Improvement,Medium,National Pride,74,79,Engaging
+72,2025-01-13 8:30:00,89,10790,4.448745933968894,Needs Improvement,Medium,Social Responsibility,57,60,Engaging
+72,2025-01-13 8:45:00,72,3670,6.147266265946771,Critical,High,Ethics in Politics,32,39,Needs clarification
+72,2025-01-13 9:00:00,93,4310,4.321787997123292,Needs Improvement,High,National Pride,53,59,Engaging
+73,2025-01-13 8:00:00,95,7471,5.608102966309765,Needs Improvement,High,Global Citizenship,71,78,Needs clarification
+73,2025-01-13 8:15:00,79,10826,7.58217595690269,Needs Improvement,Medium,Democracy,66,74,Engaging
+73,2025-01-13 8:30:00,68,8765,7.703150452103957,Healthy,Low,Democracy,96,98,Engaging
+73,2025-01-13 8:45:00,83,14612,7.930730583951933,Critical,High,Ethics in Politics,46,52,Needs clarification
+73,2025-01-13 9:00:00,76,6723,5.429594258278566,Needs Improvement,High,Social Responsibility,77,84,Engaging
+74,2025-01-13 8:00:00,90,6192,5.686708007613318,Needs Improvement,High,Global Citizenship,77,78,Needs clarification
+74,2025-01-13 8:15:00,66,8137,6.202116074375179,Healthy,Low,Democracy,95,100,Clear
+74,2025-01-13 8:30:00,96,3289,5.362918617621139,Needs Improvement,Low,National Pride,53,63,Confusing
+74,2025-01-13 8:45:00,66,11323,6.252235060806042,Critical,High,Ethics in Politics,32,40,Engaging
+74,2025-01-13 9:00:00,61,7162,6.900442829491721,Healthy,Low,Ethics in Politics,87,97,Engaging
+75,2025-01-13 8:00:00,100,13246,5.362737669123998,Needs Improvement,High,Democracy,80,85,Engaging
+75,2025-01-13 8:15:00,78,6782,7.675923812621225,Healthy,Low,Global Citizenship,86,86,Engaging
+75,2025-01-13 8:30:00,61,2589,4.083097936724863,Needs Improvement,High,Democracy,58,63,Needs clarification
+75,2025-01-13 8:45:00,90,12137,5.910029689072105,Needs Improvement,Low,National Pride,54,56,Engaging
+75,2025-01-13 9:00:00,86,8257,6.0061379096958305,Healthy,Low,National Pride,88,89,Needs clarification
+76,2025-01-13 8:00:00,88,2114,7.425563266839328,Needs Improvement,Low,National Pride,58,66,Needs clarification
+76,2025-01-13 8:15:00,92,10043,7.802555765686426,Critical,High,Global Citizenship,34,36,Clear
+76,2025-01-13 8:30:00,93,2634,4.76432878290316,Needs Improvement,Low,Social Responsibility,58,59,Needs clarification
+76,2025-01-13 8:45:00,91,1617,6.730507392632308,Needs Improvement,High,National Pride,66,67,Clear
+76,2025-01-13 9:00:00,69,10040,4.791515097648274,Needs Improvement,Medium,Democracy,66,76,Confusing
+77,2025-01-13 8:00:00,81,10250,7.804179389668789,Healthy,Low,Social Responsibility,100,100,Clear
+77,2025-01-13 8:15:00,67,3940,7.794457276042191,Critical,High,Global Citizenship,36,40,Clear
+77,2025-01-13 8:30:00,94,4425,6.790647200096351,Critical,Low,National Pride,40,45,Confusing
+77,2025-01-13 8:45:00,90,3501,6.530195418521973,Critical,High,Ethics in Politics,44,54,Needs clarification
+77,2025-01-13 9:00:00,70,6524,8.88624700098369,Critical,High,National Pride,36,45,Needs clarification
+78,2025-01-13 8:00:00,82,4697,4.2087044561816125,Needs Improvement,Medium,Global Citizenship,64,68,Clear
+78,2025-01-13 8:15:00,89,7860,6.178976140461047,Healthy,Low,Global Citizenship,95,100,Needs clarification
+78,2025-01-13 8:30:00,73,4252,4.5174084315384455,Needs Improvement,Low,Ethics in Politics,79,80,Engaging
+78,2025-01-13 8:45:00,97,1102,7.793831430799702,Needs Improvement,Low,National Pride,71,77,Needs clarification
+78,2025-01-13 9:00:00,73,10969,8.827793562958615,Needs Improvement,Medium,Global Citizenship,54,61,Confusing
+79,2025-01-13 8:00:00,78,7546,4.099754778954079,Needs Improvement,High,Ethics in Politics,61,64,Needs clarification
+79,2025-01-13 8:15:00,89,10305,7.184305505025964,Needs Improvement,Medium,Global Citizenship,65,68,Clear
+79,2025-01-13 8:30:00,96,5418,5.912978711388008,Needs Improvement,Medium,National Pride,52,61,Clear
+79,2025-01-13 8:45:00,70,8714,8.237598831971644,Critical,High,Democracy,48,54,Needs clarification
+79,2025-01-13 9:00:00,68,7037,8.750666374467883,Healthy,Low,Ethics in Politics,89,93,Clear
+80,2025-01-13 8:00:00,92,11224,5.761454354721152,Needs Improvement,Medium,Ethics in Politics,80,89,Needs clarification
+80,2025-01-13 8:15:00,68,7436,5.203862396702141,Needs Improvement,Medium,Global Citizenship,62,63,Clear
+80,2025-01-13 8:30:00,90,14111,7.857736473540568,Needs Improvement,Medium,Ethics in Politics,71,76,Confusing
+80,2025-01-13 8:45:00,68,13452,6.923898179952319,Critical,High,Democracy,49,58,Confusing
+80,2025-01-13 9:00:00,70,2478,7.790001617350791,Needs Improvement,High,National Pride,67,77,Engaging
+81,2025-01-13 8:00:00,86,14800,6.643662802294838,Needs Improvement,Medium,Global Citizenship,53,60,Engaging
+81,2025-01-13 8:15:00,84,2586,8.276003757474772,Needs Improvement,High,Democracy,53,53,Confusing
+81,2025-01-13 8:30:00,87,13658,6.957149832866216,Needs Improvement,Medium,National Pride,61,64,Needs clarification
+81,2025-01-13 8:45:00,85,10967,5.07697772890349,Needs Improvement,Low,Global Citizenship,71,81,Engaging
+81,2025-01-13 9:00:00,75,2670,7.66229000156316,Needs Improvement,High,National Pride,79,79,Engaging
+82,2025-01-13 8:00:00,83,3705,5.450285536192308,Needs Improvement,High,National Pride,78,87,Engaging
+82,2025-01-13 8:15:00,78,13621,5.935926105392493,Needs Improvement,Low,Ethics in Politics,68,69,Engaging
+82,2025-01-13 8:30:00,73,12698,5.534873227816094,Needs Improvement,Low,National Pride,62,72,Confusing
+82,2025-01-13 8:45:00,62,5300,5.494750323991845,Needs Improvement,Low,Global Citizenship,55,62,Clear
+82,2025-01-13 9:00:00,83,14866,5.799907687862073,Needs Improvement,High,Democracy,77,77,Clear
+83,2025-01-13 8:00:00,70,3736,7.548859232721989,Critical,Low,Democracy,40,48,Confusing
+83,2025-01-13 8:15:00,82,2544,5.828160015978583,Needs Improvement,Low,Democracy,60,62,Engaging
+83,2025-01-13 8:30:00,94,5340,6.652939003663513,Needs Improvement,Medium,Social Responsibility,53,59,Needs clarification
+83,2025-01-13 8:45:00,64,14783,6.843062809517891,Needs Improvement,Medium,Global Citizenship,52,61,Engaging
+83,2025-01-13 9:00:00,91,9851,5.859352098793184,Needs Improvement,High,Social Responsibility,59,66,Needs clarification
+84,2025-01-13 8:00:00,66,11824,8.421285206254574,Needs Improvement,Medium,Democracy,69,79,Confusing
+84,2025-01-13 8:15:00,77,2347,8.513003193502874,Needs Improvement,Low,Social Responsibility,79,82,Confusing
+84,2025-01-13 8:30:00,87,13559,6.092908896542237,Healthy,Low,Social Responsibility,98,100,Needs clarification
+84,2025-01-13 8:45:00,92,8362,5.629629762343253,Needs Improvement,High,Ethics in Politics,67,77,Confusing
+84,2025-01-13 9:00:00,72,1660,5.503132562856221,Needs Improvement,Low,Global Citizenship,80,87,Engaging
+85,2025-01-13 8:00:00,73,7144,7.278120744932162,Healthy,Low,Social Responsibility,95,100,Confusing
+85,2025-01-13 8:15:00,73,3848,7.35100956852763,Needs Improvement,Medium,Global Citizenship,78,83,Confusing
+85,2025-01-13 8:30:00,98,11413,5.727828842502743,Needs Improvement,High,Global Citizenship,73,79,Needs clarification
+85,2025-01-13 8:45:00,74,12124,6.365116025190298,Healthy,Low,Democracy,99,100,Clear
+85,2025-01-13 9:00:00,82,6351,7.333160634024007,Critical,High,Ethics in Politics,39,42,Engaging
+86,2025-01-13 8:00:00,65,6749,8.967205746082563,Needs Improvement,Medium,National Pride,72,82,Confusing
+86,2025-01-13 8:15:00,97,11089,4.569187475076885,Needs Improvement,High,National Pride,79,88,Engaging
+86,2025-01-13 8:30:00,78,1536,8.97465730508118,Needs Improvement,High,Democracy,68,70,Engaging
+86,2025-01-13 8:45:00,99,3893,6.847201632977352,Critical,Low,Ethics in Politics,47,47,Engaging
+86,2025-01-13 9:00:00,71,9375,8.94469000736268,Healthy,Low,Ethics in Politics,80,90,Engaging
+87,2025-01-13 8:00:00,81,7912,7.032412176911133,Needs Improvement,Medium,National Pride,66,76,Confusing
+87,2025-01-13 8:15:00,81,10923,6.5183913628101315,Critical,High,National Pride,50,52,Engaging
+87,2025-01-13 8:30:00,61,1443,5.995347699784597,Needs Improvement,Medium,National Pride,63,70,Engaging
+87,2025-01-13 8:45:00,86,2546,8.509888292631523,Needs Improvement,Low,Ethics in Politics,65,73,Confusing
+87,2025-01-13 9:00:00,84,12482,5.267090301917435,Needs Improvement,Low,Ethics in Politics,77,84,Confusing
+88,2025-01-13 8:00:00,82,4903,5.113809768562014,Needs Improvement,Medium,Ethics in Politics,69,76,Needs clarification
+88,2025-01-13 8:15:00,76,5080,7.754237380395046,Critical,High,Ethics in Politics,38,40,Confusing
+88,2025-01-13 8:30:00,69,4785,4.454305631321667,Needs Improvement,High,Global Citizenship,73,83,Clear
+88,2025-01-13 8:45:00,68,6797,6.571324753631253,Needs Improvement,Medium,Democracy,78,81,Clear
+88,2025-01-13 9:00:00,99,12447,6.613043266693023,Healthy,Low,Democracy,90,98,Clear
+89,2025-01-13 8:00:00,68,6024,6.1873924857963525,Healthy,Low,Democracy,93,94,Needs clarification
+89,2025-01-13 8:15:00,73,13356,5.865488812481775,Needs Improvement,High,Social Responsibility,77,77,Engaging
+89,2025-01-13 8:30:00,69,2310,4.089873090645192,Needs Improvement,Medium,Ethics in Politics,63,63,Engaging
+89,2025-01-13 8:45:00,65,2017,5.22146867785748,Needs Improvement,High,Ethics in Politics,66,76,Engaging
+89,2025-01-13 9:00:00,68,12223,5.666482920241537,Needs Improvement,Low,Global Citizenship,52,59,Clear
+90,2025-01-13 8:00:00,78,3286,7.232764470866866,Needs Improvement,Medium,Global Citizenship,70,73,Needs clarification
+90,2025-01-13 8:15:00,62,12964,6.918686342796201,Critical,High,Ethics in Politics,34,34,Needs clarification
+90,2025-01-13 8:30:00,78,10855,4.718946860577109,Needs Improvement,Low,Democracy,54,59,Needs clarification
+90,2025-01-13 8:45:00,70,7104,7.1243839758642205,Healthy,Low,Social Responsibility,97,100,Clear
+90,2025-01-13 9:00:00,84,8955,6.226359569347107,Healthy,Low,National Pride,95,100,Needs clarification
+91,2025-01-13 8:00:00,82,2460,4.084419938169669,Needs Improvement,High,Global Citizenship,56,58,Clear
+91,2025-01-13 8:15:00,99,2438,8.734768471602973,Needs Improvement,High,Social Responsibility,63,67,Needs clarification
+91,2025-01-13 8:30:00,100,3004,5.025900509378242,Needs Improvement,High,Global Citizenship,53,59,Clear
+91,2025-01-13 8:45:00,100,11823,6.642625987958171,Healthy,Low,Global Citizenship,96,98,Needs clarification
+91,2025-01-13 9:00:00,79,11600,8.343828311316944,Critical,High,Global Citizenship,48,52,Clear
+92,2025-01-13 8:00:00,78,9759,5.394381150905259,Needs Improvement,Medium,Democracy,77,86,Engaging
+92,2025-01-13 8:15:00,60,14212,4.750801101154205,Needs Improvement,Medium,Social Responsibility,58,65,Confusing
+92,2025-01-13 8:30:00,89,3141,6.9516168822656175,Needs Improvement,Medium,Ethics in Politics,72,74,Engaging
+92,2025-01-13 8:45:00,90,8122,8.573994229874689,Healthy,Low,Global Citizenship,90,99,Needs clarification
+92,2025-01-13 9:00:00,89,13532,8.691728671824869,Needs Improvement,Medium,Ethics in Politics,61,69,Engaging
+93,2025-01-13 8:00:00,90,8109,4.4062201180411344,Needs Improvement,Medium,Social Responsibility,68,77,Needs clarification
+93,2025-01-13 8:15:00,89,9355,7.441634327935981,Critical,High,Global Citizenship,37,45,Needs clarification
+93,2025-01-13 8:30:00,67,4063,6.950883725942859,Needs Improvement,Medium,National Pride,74,82,Confusing
+93,2025-01-13 8:45:00,92,10146,7.963485452658209,Healthy,Low,Democracy,95,100,Clear
+93,2025-01-13 9:00:00,73,1004,7.95101405071812,Needs Improvement,Low,Social Responsibility,62,66,Clear
+94,2025-01-13 8:00:00,72,7354,6.064475051453718,Critical,High,Ethics in Politics,48,58,Engaging
+94,2025-01-13 8:15:00,97,7973,6.556777479489174,Needs Improvement,Medium,Global Citizenship,60,64,Needs clarification
+94,2025-01-13 8:30:00,71,1128,7.01891901586173,Needs Improvement,Medium,Democracy,62,67,Engaging
+94,2025-01-13 8:45:00,70,9309,7.890105843377482,Critical,High,Global Citizenship,49,57,Needs clarification
+94,2025-01-13 9:00:00,91,4507,8.881916650880548,Needs Improvement,Medium,Democracy,67,77,Needs clarification
+95,2025-01-13 8:00:00,93,14047,5.318102384264335,Needs Improvement,Low,Democracy,79,83,Needs clarification
+95,2025-01-13 8:15:00,66,12386,7.9672537773168415,Needs Improvement,Medium,Ethics in Politics,53,55,Needs clarification
+95,2025-01-13 8:30:00,64,12430,4.119943634699078,Needs Improvement,Medium,Social Responsibility,56,66,Clear
+95,2025-01-13 8:45:00,77,7183,5.089121624166181,Needs Improvement,Medium,Global Citizenship,73,79,Confusing
+95,2025-01-13 9:00:00,77,4618,4.495594744255249,Needs Improvement,Low,National Pride,79,81,Clear
+96,2025-01-13 8:00:00,78,11621,5.993454064249274,Needs Improvement,Medium,Social Responsibility,60,62,Engaging
+96,2025-01-13 8:15:00,81,11228,4.122561616711855,Needs Improvement,Low,Global Citizenship,69,74,Confusing
+96,2025-01-13 8:30:00,90,9765,5.800327539568962,Needs Improvement,Low,Democracy,51,61,Confusing
+96,2025-01-13 8:45:00,99,3518,4.044416320429864,Needs Improvement,Medium,National Pride,73,78,Confusing
+96,2025-01-13 9:00:00,71,14423,4.6884151957716265,Needs Improvement,Medium,Democracy,58,68,Confusing
+97,2025-01-13 8:00:00,91,3170,8.278086597427755,Critical,Low,Global Citizenship,48,48,Confusing
+97,2025-01-13 8:15:00,84,10645,8.189138544292572,Healthy,Low,Global Citizenship,80,86,Clear
+97,2025-01-13 8:30:00,93,5098,5.228065111218617,Needs Improvement,High,Democracy,76,80,Clear
+97,2025-01-13 8:45:00,67,2231,8.07575771641229,Needs Improvement,Medium,Global Citizenship,78,83,Needs clarification
+97,2025-01-13 9:00:00,66,7070,6.381537557061657,Critical,High,Global Citizenship,48,51,Engaging
+98,2025-01-13 8:00:00,94,5109,8.964405815305458,Healthy,Low,Democracy,87,94,Needs clarification
+98,2025-01-13 8:15:00,100,14063,6.484923839377368,Critical,High,Democracy,48,48,Needs clarification
+98,2025-01-13 8:30:00,70,2064,5.200550015304715,Needs Improvement,Low,Democracy,56,56,Clear
+98,2025-01-13 8:45:00,65,5884,8.117429533719118,Critical,High,Democracy,48,51,Engaging
+98,2025-01-13 9:00:00,100,14886,7.994298642154366,Healthy,Low,Global Citizenship,97,100,Needs clarification
+99,2025-01-13 8:00:00,92,2410,5.442262804711103,Needs Improvement,High,Democracy,60,63,Engaging
+99,2025-01-13 8:15:00,94,3896,5.932108841661017,Needs Improvement,High,National Pride,65,68,Clear
+99,2025-01-13 8:30:00,97,12014,8.225820752044513,Healthy,Low,Social Responsibility,99,100,Clear
+99,2025-01-13 8:45:00,73,9475,5.203153564372301,Needs Improvement,Medium,National Pride,60,63,Needs clarification
+99,2025-01-13 9:00:00,93,13409,8.079734055826812,Healthy,Low,Democracy,80,89,Engaging
+100,2025-01-13 8:00:00,99,13648,6.215069740754645,Healthy,Low,Social Responsibility,82,87,Confusing
+100,2025-01-13 8:15:00,62,1495,6.592335272013276,Needs Improvement,Medium,Ethics in Politics,52,55,Confusing
+100,2025-01-13 8:30:00,79,13250,5.564411059660771,Needs Improvement,Low,Global Citizenship,56,65,Clear
+100,2025-01-13 8:45:00,80,12162,4.875966913935838,Needs Improvement,High,Global Citizenship,75,82,Engaging
+100,2025-01-13 9:00:00,85,10091,6.383861580412118,Healthy,Low,Democracy,94,100,Engaging
