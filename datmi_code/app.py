@@ -9,6 +9,9 @@ app = FastAPI()
 # Load model yang sudah disimpan
 model = pickle.load(open('model.pkl', 'rb'))
 
+scaler = pickle.load(open('scaler.pkl', 'rb'))
+
+
 # Definisikan input data menggunakan Pydantic
 class InputData(BaseModel):
     heart_rate: float
